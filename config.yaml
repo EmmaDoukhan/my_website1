@@ -7,7 +7,7 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
+    #subtitle: |-
      # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
      # AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Emma Doukhan. I'm a MiM student at the London Business School, with a real interest in Data Science and Machine Learning ;)
@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic06.jpg
+      - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
         url: blogs/aliquam
